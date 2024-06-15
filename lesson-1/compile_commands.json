@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/mnt/d/Programing/C++/gtest-learning/lesson-1/build",
+  "command": "/usr/bin/c++ -isystem /home/linuxbrew/.linuxbrew/include -o CMakeFiles/test1.dir/test1.cpp.o -c /mnt/d/Programing/C++/gtest-learning/lesson-1/test1.cpp",
+  "file": "/mnt/d/Programing/C++/gtest-learning/lesson-1/test1.cpp",
+  "output": "CMakeFiles/test1.dir/test1.cpp.o"
+}
+]
